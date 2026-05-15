@@ -1,0 +1,13 @@
+flask
+line-bot-sdk
+openai
+python-dotenv
+
+langchain
+langchain-community
+langchain-chroma
+langchain-text-splitters
+
+sentence-transformers
+chromadb
+torch
